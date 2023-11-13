@@ -1,0 +1,16 @@
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin: 20px;
+    padding: 30px;
+      
+}
+
+.border{
+    border-style: dotted;
+    width:350px;
+    height:600px;
+}
